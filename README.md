@@ -6,7 +6,8 @@ Link magnet : magnet:?xt=urn:btih:902642e4138e3430795392eb59b0dde5b7250627&dn=Th
 
 ## Question 2
 
-When i try to download the torrent it don't work but when i use BitTorrent it download it but not in CLI command
+I remove the folder "partition 1" and when i try to download the torrent it don't work also when i tried to download it with BitTorrent. 
 
 ![image](https://github.com/Natgru06/Workshop2/assets/108078812/cfa44e1b-6948-4686-b121-92bbf590b065)
 
+![image](https://github.com/Natgru06/Workshop2/assets/108078812/558a4fa2-4fd8-4387-b35f-81b76ca76370)
