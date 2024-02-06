@@ -32,7 +32,7 @@ QmRHhKss9MmKH32PuMcs7nJEU7hiBKJbNDESn3dpfLhydv
 
 ### Question 2
 
-When i create my IPFS file the changing between torrent and IPFS is that we can access to the file content 
+When i create my IPFS file the changing between torrent and IPFS is that we need the hash of the file to download it. It assures the integrity of the file when we download it.
 
 ![image](https://github.com/Natgru06/Workshop2/assets/108078812/ff6a808f-054d-4848-b302-77b7cade1560)
 
