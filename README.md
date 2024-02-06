@@ -28,7 +28,8 @@ If we show the info we can see that they don't have the same hash
 
 ### Question 1
 
-QmRHhKss9MmKH32PuMcs7nJEU7hiBKJbNDESn3dpfLhydv
+IPFS link : https://ipfs.io/ipfs/QmRHhKss9MmKH32PuMcs7nJEU7hiBKJbNDESn3dpfLhydv
+CID : QmRHhKss9MmKH32PuMcs7nJEU7hiBKJbNDESn3dpfLhydv
 
 ### Question 2
 
