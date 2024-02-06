@@ -12,3 +12,6 @@ When i try to download the torrent it don't work also when i tried to download i
 
 ![image](https://github.com/Natgru06/Workshop2/assets/108078812/b4443d23-be41-4903-bb65-36adf4ccf144)
 
+## Question 3
+
+
