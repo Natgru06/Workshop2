@@ -46,3 +46,7 @@ We can see that the copy and the original have the same CID : QmRHhKss9MmKH32PuM
 
 
 ## Create your first decentralized website
+
+This is the api
+
+![image](https://github.com/Natgru06/Workshop2/assets/108078812/4412e708-c30d-42b4-9b87-042c874cf78d)
