@@ -6,7 +6,7 @@ Link magnet : magnet:?xt=urn:btih:902642e4138e3430795392eb59b0dde5b7250627&dn=Th
 
 ## Question 2
 
-When i try to download the torrent it don't work also when i tried to download it with BitTorrent. 
+When i try to download the torrent it don't work also when i tried to download it with BitTorrent. When i remove the folder and then try to install it, the folder is created but the files don't download.
 
 ![image](https://github.com/Natgru06/Workshop2/assets/108078812/9d5fc7fe-55a1-4d5a-874d-1664da3d206c)
 
