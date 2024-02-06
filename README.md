@@ -16,12 +16,25 @@ When i try to download the torrent it don't work also when i tried to download i
 
 ### Question 3
 
-I don't find any difference by now
+If we show the info we can see that they don't have the same hash 
+
+![image](https://github.com/Natgru06/Workshop2/assets/108078812/f8b41d92-7576-4fa9-bb12-1b332fc4317e)
+
+![image](https://github.com/Natgru06/Workshop2/assets/108078812/36f13bb9-0aa6-4b8f-a352-6831cd24cf9e)
+
+
 
 ## IPFS
 
 ### Question 1
 
+QmRHhKss9MmKH32PuMcs7nJEU7hiBKJbNDESn3dpfLhydv
+
 ### Question 2
+
+When i create my IPFS file the changing between torrent and IPFS is that we have  
+
+![image](https://github.com/Natgru06/Workshop2/assets/108078812/ff6a808f-054d-4848-b302-77b7cade1560)
+
 
 ### Question 3
