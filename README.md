@@ -45,3 +45,4 @@ We can see that the copy and the original have the same CID : QmRHhKss9MmKH32PuM
 ![image](https://github.com/Natgru06/Workshop2/assets/108078812/acd374b8-71b4-4577-a16f-1661dffb7bf5)
 
 
+## Create your first decentralized website
