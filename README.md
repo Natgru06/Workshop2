@@ -32,9 +32,15 @@ QmRHhKss9MmKH32PuMcs7nJEU7hiBKJbNDESn3dpfLhydv
 
 ### Question 2
 
-When i create my IPFS file the changing between torrent and IPFS is that we have  
+When i create my IPFS file the changing between torrent and IPFS is that we can access to the file content 
 
 ![image](https://github.com/Natgru06/Workshop2/assets/108078812/ff6a808f-054d-4848-b302-77b7cade1560)
 
 
 ### Question 3
+
+We can see that the copy and the original have the same CID : QmRHhKss9MmKH32PuMcs7nJEU7hiBKJbNDESn3dpfLhydv. It differs with torrent where the two torrent of the different folders have different Hash for example.
+
+![image](https://github.com/Natgru06/Workshop2/assets/108078812/acd374b8-71b4-4577-a16f-1661dffb7bf5)
+
+
